@@ -1,5 +1,5 @@
 ### Hello there 
-I'm a student at Archbishop Mitty High School.
+I'm a student.
 
 <!--
 **prapooskur/prapooskur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
