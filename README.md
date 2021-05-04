@@ -6,7 +6,7 @@ Currently, I am learning Java, Python, HTML, and CSS.
 
 In my free time, I enjoy playing video games with friends, studying new skills, and writing code.
 
-You can contact me through GitHub or [Linkedi](https://www.linkedin.com/in/prasiddh-p-a4738a1b0/).
+You can contact me through GitHub or [Linkedin](https://www.linkedin.com/in/prasiddh-p-a4738a1b0/).
 
 <!--
 **prapooskur/prapooskur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
